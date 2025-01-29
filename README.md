@@ -9,13 +9,13 @@
 
 - 👯 I’m looking to collaborate on <strong>Open Source Projects</strong>
 
-- 👨‍💻 All of my projects are available at <a href="https://www.cristiangvidal.com.ar" target="_blank">https://www.cristiangvidal.com.ar</a>
+- 👨‍💻 All of my projects are available at <a href="https://www.cristiangvidal.com.ar" target="_blank">https://www.cristiangvidal.com.ar (Under Construction)</a>
 
 - 📝 I regularly write articles on <a href="Coming Soon..." target="_blank">Coming Soon...</a>
 
-- 📧 How to reach me <strong>cristiangvidal99@gmail.com</strong>
+- 📧 How to reach me <strong><a href="mailto:cristiangvidal99@gmail.com"></a> Gmail</strong>
 
-- 📄 Know about my experiences <a href="I have experience as a full stack developer. Currently working with .NET, React and sometimes SharePoint." target="_blank">I have experience as a full stack developer. Currently working with .NET, React and sometimes SharePoint.</a>
+- 📄 Know about my experiences <a href="https://www.canva.com/design/DAFTz0M2tu4/lwR_LliIjgzmpSkIzikUPQ/view?utm_content=DAFTz0M2tu4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7bbb029916" target="_blank">CV</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -41,4 +41,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikulover&show_icons=true&locale=en&layout=compact" alt="nikulover" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikulover&show_icons=true&locale=en" alt="nikulover" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikulover&" alt="nikulover" /></p>
